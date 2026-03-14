@@ -1,7 +1,7 @@
 # <p align="center">Hi there, I'm Manisha Dhankhar! 👋</p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/assets/man-working-on-laptop.gif" width="600" alt="Full Stack Developer Animation" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ManishaDhankhar&show_icons=true&theme=radical&hide_border=true" width="600" alt="GitHub Stats" />
 </p>
 
 <p align="center">
