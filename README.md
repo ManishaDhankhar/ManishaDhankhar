@@ -1,7 +1,7 @@
 # <p align="center">Hi there, I'm Manisha Dhankhar! 👋</p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/master/assets/snake.svg" width="600" alt="Developer Illustration" />
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/assets/man-working-on-laptop.gif" width="600" alt="Full Stack Developer Animation" />
 </p>
 
 <p align="center">
