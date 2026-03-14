@@ -1,7 +1,7 @@
 # <p align="center">Hi there, I'm Manisha Dhankhar! 👋</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&weight=600&size=25&pause=1000&color=FF385C&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;DSA+Enthusiast;UIET+Kurukshetra+University;Building+The+Roaming+Hub" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&weight=600&size=25&pause=1000&color=FF385C&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;DSA+Enthusiast;UIET+Kurukshetra+University" alt="Typing Animation" />
 </p>
 
 <p align="center">
@@ -13,8 +13,8 @@
 ### 🚀 About Me
 I am a **3rd-year B.Tech student** at **UIET, Kurukshetra University** (Batch of 2027) with a strong **8.67 CGPA**. I am a **Full Stack Developer** specializing in the MERN stack and **Data Structures and Algorithms**.
 
-- 🔭 **Current Project:** **[The Roaming Hub](https://github.com/ManishaDhankhar/The-Roaming-Hub)** - Peer-to-peer platform using Node/Express RESTful microservices.
-- 🏆 **Hackathon Success:** **2nd Runner Up** at **TechJam 2.0** (Top 10 out of 1,700+) and **ThoughtWorks Hackathon Finalist**.
+- 🔭 **Current Project:** **[The Roaming Hub](https://github.com/ManishaDhankhar/The-Roaming-Hub)** - Peer-to-peer platform using Node/Express RESTful microservices,Payment Gateway.
+- 🏆 **Hackathon Success:** **2nd Runner Up** at **TechJam 2.0** and **ThoughtWorks Hackathon Finalist**(Top 10 out of 1,700+).
 - 👯 **Leadership:** **Team Lead of the Coding Club** at UIET, Kurukshetra University.
 - 📉 **Achievements:** **Level 1 Qualifier** in **Flipkart GRID 7.0** national tech challenge.
 - 📫 **Contact:** manisharajeshdhankhar@gmail.com
