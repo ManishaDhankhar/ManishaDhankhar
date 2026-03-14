@@ -1,7 +1,9 @@
 # <p align="center">Hi there, I'm Manisha Dhankhar! 👋</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ManishaDhankhar&show_icons=true&theme=radical&hide_border=true" width="600" alt="GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="100" height="100" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="100" height="100" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="100" height="100" />
 </p>
 
 <p align="center">
