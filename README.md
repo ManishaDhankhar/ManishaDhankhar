@@ -1,9 +1,11 @@
 # <p align="center">Hi there, I'm Manisha Dhankhar! 👋</p>
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-81d0f9a4-4a7f-4af0-9d1d-072e50337d5c.gif" width="600" alt="Developer Illustration" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-81d0f9a4-4a7f-4af0-9d1d-072e50337d5c.gif" width="600" alt="Full Stack Developer Illustration" />
 </p>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&weight=600&size=25&pause=1000&color=FF385C&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;DSA+Enthusiast;UIET+Kurukshetra+University" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&weight=600&size=25&pause=1000&color=FF385C&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Java+%2B+DSA+Expert;Electrical+%26+Computer+Engineering;7k%2B+LinkedIn+Network" alt="Typing Animation" />
 </p>
 
 <p align="center">
@@ -12,11 +14,12 @@
 
 ---
 
-### 🚀 About Me
-I am a **3rd-year B.Tech student** at **UIET, Kurukshetra University** (Batch of 2027) with a strong **8.67 CGPA**. I am a **Full Stack Developer** specializing in the MERN stack and **Data Structures and Algorithms**.
+### 🚀 Professional Summary
+I am a **3rd-year Electrical and Computer Engineering student** at **UIET, Kurukshetra University** (Batch of 2027) with a strong **8.67 CGPA**. I am a **Full Stack Developer** specializing in the **MERN stack** and **Data Structures and Algorithms**.
 
-- 🔭 **Current Project:** **[The Roaming Hub](https://github.com/ManishaDhankhar/The-Roaming-Hub)** - Peer-to-peer platform using Node/Express RESTful microservices,Payment Gateway.
-- 🏆 **Hackathon Success:** **2nd Runner Up** at **TechJam 2.0** and **ThoughtWorks Hackathon Finalist**(Top 10 out of 1,700+).
+- 🔭 **Current Project:** **[The Roaming Hub](https://github.com/ManishaDhankhar/The-Roaming-Hub)** - Peer-to-peer platform using Node/Express RESTful microservices and Razorpay Payment Gateway.
+- 🏆 **Winner:** **2nd Runner Up** at **TechJam 2.0** (Top 10 out of 1,700+ participants).
+- 🏅 **Finalist:** **ThoughtWorks Hackathon** (Top 3,000 teams) and **Hackamania** (Top 20 National).
 - 👯 **Leadership:** **Team Lead of the Coding Club** at UIET, Kurukshetra University.
 - 📉 **Achievements:** **Level 1 Qualifier** in **Flipkart GRID 7.0** national tech challenge.
 - 📫 **Contact:** manisharajeshdhankhar@gmail.com
