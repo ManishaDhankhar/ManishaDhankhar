@@ -1,12 +1,6 @@
 # <p align="center">Hi there, I'm Manisha Dhankhar! 👋</p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="100" height="100" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="100" height="100" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="100" height="100" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&weight=600&size=25&pause=1000&color=FF385C&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Java+%2B+DSA+Enthusiast;Electrical+%26+Computer+Engineering;7k%2B+LinkedIn+Network" alt="Typing Animation" />
 </p>
 
