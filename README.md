@@ -11,12 +11,13 @@
 ---
 
 ### 🚀 About Me
-[cite_start]I am a **3rd-year B.Tech student** at **UIET, Kurukshetra University** (Batch of 2027) with an **8.67 CGPA**[cite: 8, 13]. [cite_start]I am a **Full Stack Developer** specializing in the MERN stack and **Data Structures and Algorithms**.
+I am a **3rd-year B.Tech student** at **UIET, Kurukshetra University** (Batch of 2027) with a strong **8.67 CGPA**. I am a **Full Stack Developer** specializing in the MERN stack and **Data Structures and Algorithms**.
 
-- [cite_start]🔭 **Featured Project:** **[The Roaming Hub](https://github.com/ManishaDhankhar/The-Roaming-Hub)** - Peer-to-peer platform using Node/Express RESTful microservices[cite: 18, 19].
-- [cite_start]🏆 **Hackathon Success:** 2nd Runner Up at **TechJam 2.0** (Top 10 out of 1,700+)[cite: 30, 31].
-- [cite_start]👯 **Leadership:** **Team Lead of the Coding Club** at UIET, Kurukshetra University[cite: 41].
-- [cite_start]📫 **Contact:** manisharajeshdhankhar@gmail.com [cite: 3]
+- 🔭 **Current Project:** **[The Roaming Hub](https://github.com/ManishaDhankhar/The-Roaming-Hub)** - Peer-to-peer platform using Node/Express RESTful microservices.
+- 🏆 **Hackathon Success:** **2nd Runner Up** at **TechJam 2.0** (Top 10 out of 1,700+) and **ThoughtWorks Hackathon Finalist**.
+- 👯 **Leadership:** **Team Lead of the Coding Club** at UIET, Kurukshetra University.
+- 📉 **Achievements:** **Level 1 Qualifier** in **Flipkart GRID 7.0** national tech challenge.
+- 📫 **Contact:** manisharajeshdhankhar@gmail.com
 
 ---
 
@@ -29,14 +30,14 @@
 
 ---
 
-### 📈 Contribution Activity
+### 📈 Dynamic Activity Graph
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ManishaDhankhar&theme=radical&hide_border=true&area=true" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ManishaDhankhar&theme=react-dark&hide_border=true&area=true&custom_title=Coding%20Activity" />
 </p>
 
 ---
 
-### 📊 GitHub Stats & Streaks
+### 📊 GitHub Stats & Performance
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ManishaDhankhar&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManishaDhankhar&layout=compact&theme=radical&hide_border=true" />
@@ -57,6 +58,17 @@
 
 ### 🤝 Connect with Me
 <p align="center">
-<a href="https://linkedin.com/in/manisha-dhankhar" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/ManishaDhankhar" target="blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://linkedin.com/in/manisha-dhankhar" target="blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/ManishaDhankhar" target="blank">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="mailto:manisharajeshdhankhar@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" />
 </p>
