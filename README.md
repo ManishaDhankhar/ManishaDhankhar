@@ -1,5 +1,7 @@
 # <p align="center">Hi there, I'm Manisha Dhankhar! 👋</p>
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-81d0f9a4-4a7f-4af0-9d1d-072e50337d5c.gif" width="600" alt="Developer Illustration" />
+</p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&weight=600&size=25&pause=1000&color=FF385C&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;DSA+Enthusiast;UIET+Kurukshetra+University" alt="Typing Animation" />
 </p>
