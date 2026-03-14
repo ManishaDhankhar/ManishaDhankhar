@@ -1,76 +1,57 @@
-## Hi there 👋
-# Hi there, I'm Manisha Dhankhar! 👋 
+# <p align="center">Hi there, I'm Manisha Dhankhar! 👋</p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ManishaDhankhar&label=Profile%20views&color=0e75b6&style=flat" alt="ManishaDhankhar" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&weight=600&size=25&pause=1000&color=FF385C&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;UIET+Kurukshetra+University;MERN+Stack+Expert;Building+The+Roaming+Hub;Competitive+Programmer" alt="Typing Animation" />
 </p>
 
-### 🚀 B.Tech Computer Science student at UIT Kurukshetra | Batch of 2027
-[cite_start]I am a Full-Stack Developer and competitive programmer with a 8.67 CGPA[cite: 8, 13]. [cite_start]I specialize in the MERN stack and AI-driven analysis tools[cite: 6, 12]. 
-
-- [cite_start]🔭 **Featured Project:** **Jal Drishti** - AI-Driven RWH analysis tool using Azure Microservices & QGIS[cite: 12, 15].
-- [cite_start]🏆 **Hackathon Winner:** 2nd Runner Up at TechJam 2.0 (Top 10 out of 1,700+)[cite: 30, 31].
-- [cite_start]🌱 **Learning:** Advanced Cloud Architecture and Geospatial Data integration[cite: 16].
-- [cite_start]👯 **Team Lead:** Leading the Coding Club at UIT Kurukshetra[cite: 41].
-- [cite_start]📫 **Contact:** manisharajeshdhankhar@gmail.com 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ManishaDhankhar&label=PROFILE+VIEWS&color=ff385c&style=for-the-badge" alt="Views" />
+</p>
 
 ---
 
-### 💻 Tech Stack & Tools
+### 🚀 About Me
+[cite_start]I am a **3rd-year B.Tech student** at **UIET, Kurukshetra University** (Batch of 2027) with an **8.67 CGPA**[cite: 8, 9, 13]. [cite_start]I specialize in crafting scalable web applications and solving complex algorithmic challenges[cite: 6].
 
-<p align="left">
+- [cite_start]🔭 **Current Focus:** Leading the development of **[The Roaming Hub](https://github.com/ManishaDhankhar/The-Roaming-Hub)**, a peer-to-peer accommodation platform[cite: 18].
+- [cite_start]🏆 **Hackathon Record:** 2nd Runner Up at **TechJam 2.0** (Top 10 out of 1,700+) and **ThoughtWorks Finalist**[cite: 30, 31, 32].
+- [cite_start]👯 **Leadership:** Proud **Team Lead of the Coding Club** at UIT, organizing workshops and internal hackathons[cite: 41].
+- [cite_start]📫 **Reach Me:** manisharajeshdhankhar@gmail.com [cite: 3]
+
+---
+
+### 💻 Tech Stack & Animation
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,js,react,nodejs,express,mongodb,tailwind,bootstrap,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,redux,tailwind,bootstrap,git,github,vscode,java,py,html,css" />
   </a>
 </p>
 
-[cite_start]**Languages:** Java, Python, JavaScript, HTML5, CSS3 [cite: 4]
-[cite_start]**Specializations:** Data Structures and Algorithms, RESTful APIs, State Management (Redux) 
-
 ---
 
-### 📊 GitHub Analytics
-
+### 📊 GitHub Power Stats
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ManishaDhankhar&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManishaDhankhar&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ManishaDhankhar&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManishaDhankhar&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ManishaDhankhar&theme=radical" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ManishaDhankhar&theme=radical&hide_border=true" />
 </p>
 
 ---
 
-### 🏆 Projects & Achievements
+### 🏆 Featured Project: The Roaming Hub
+> [cite_start]**Architected a MERN platform using Node/Express RESTful microservices, deployed on Render[cite: 19].**
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **Jal Drishti** | [cite_start]AI-Driven Rainwater Harvesting Analysis with rooftop detection[cite: 12, 17]. | Azure, QGIS, U-Net |
-| **The Roaming Hub** | [cite_start]Peer-to-Peer accommodation platform with OAuth & JWT security[cite: 18, 20]. | MERN, Cloudinary |
-| **AgriGrow** | [cite_start]E-commerce for crop waste using OpenCV for AI-driven matching[cite: 22, 27]. | MERN, OpenCV |
-
-**Awards:**
-* [cite_start]🥈 **2nd Runner Up**, TechJam 2.0 Hackathon (Microsoft Noida) [cite: 30]
-* [cite_start]🏅 **Finalist**, ThoughtWorks Hackathon (Top 3,000 teams) [cite: 32, 33]
-* [cite_start]🔝 **Top 20 Finalist**, Hackamania (Microsoft Hackathon) [cite: 35]
-* [cite_start]📈 **Level 1 Qualifier**, Flipkart GRID 7.0 [cite: 38]
+- [cite_start]🔒 **Security:** Implemented robust **OAuth/JWT authentication** and MongoDB Atlas clusters[cite: 20].
+- [cite_start]🖼️ **Efficiency:** Integrated **Cloudinary** for asynchronous image handling and media optimization[cite: 21].
+- 🗺️ **Interactivity:** Integrated Mapbox for real-time location visualization.
 
 ---
 
 ### 🤝 Connect with Me
-[cite_start][LinkedIn](https://linkedin.com/in/manisha-dhankhar) [cite: 5] | [cite_start][Portfolio](https://github.com/ManishaDhankhar)
-<!--
-**ManishaDhankhar/ManishaDhankhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+<a href="https://linkedin.com/in/manisha-dhankhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manisha-dhankhar" height="30" width="40" /></a>
+<a href="https://github.com/ManishaDhankhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ManishaDhankhar" height="30" width="40" /></a>
+</p>
