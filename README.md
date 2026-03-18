@@ -22,7 +22,7 @@ I am a **3rd-year Electrical and Computer Engineering student** at **UIET, Kuruk
 ### 💻 Tech Stack & Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,redux,tailwind,bootstrap,git,github,vscode,java,py,html,css,rag,wordpress" />
+    <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,redux,tailwind,bootstrap,git,github,vscode,java,py,html,css,wordpress" />
   </a>
 </p>
 
