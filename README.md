@@ -13,11 +13,8 @@
 ### 🚀 Professional Summary
 I am a **3rd-year Electrical and Computer Engineering student** at **UIET, Kurukshetra University** (Batch of 2027) with a strong **8.67 CGPA**. I am a **Full Stack Developer** specializing in the **MERN stack** and **Data Structures and Algorithms**.
 
-- 🔭 **Current Project:** **[The Roaming Hub](https://github.com/ManishaDhankhar/The-Roaming-Hub)** - Peer-to-peer platform using Node/Express RESTful microservices and Razorpay Payment Gateway.
-- 🏆 **Winner:** **2nd Runner Up** at **TechJam 2.0** (Top 10 out of 1,700+ participants).
-- 🏅 **Finalist:** **ThoughtWorks Hackathon** (Top 3,000 teams) and **Hackamania** (Top 20 National).
+- 🔭 **Current Project:** **[The Roaming Hub](https://github.com/ManishaDhankhar/The-Roaming-Hub)** - Peer-to-peer platform using Node/Express RESTful microservices and Razorpay Payment Gateway,RAG.
 - 👯 **Leadership:** **Team Lead of the Coding Club** at UIET, Kurukshetra University.
-- 📉 **Achievements:** **Level 1 Qualifier** in **Flipkart GRID 7.0** national tech challenge.
 - 📫 **Contact:** manisharajeshdhankhar@gmail.com
 
 ---
