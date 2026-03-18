@@ -37,8 +37,8 @@ I am a **3rd-year Electrical and Computer Engineering student** at **UIET, Kuruk
 
 ### 📊 GitHub Stats & Performance
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ManishaDhankhar&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManishaDhankhar&layout=compact&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ManishaDhankhar&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManishaDhankhar&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
