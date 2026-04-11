@@ -13,7 +13,7 @@
 ### 🚀 Professional Summary
 I am a **3rd-year Electrical and Computer Engineering student** at **UIET, Kurukshetra University** (Batch of 2027) with a strong **8.67 CGPA**. I am a **Full Stack Developer** specializing in the **MERN stack** and **Data Structures and Algorithms**.
 
-- 🔭 **Current Project:** **[The Roaming Hub](https://github.com/ManishaDhankhar/The-Roaming-Hub)** - Peer-to-peer platform using Node/Express RESTful microservices and Razorpay Payment Gateway,RAG.
+- 🔭 **Current Project:** **🛠️ UnityRent – A scalable MERN & AWS-powered P2P marketplace for campus essentials, featuring custom escrow logic and RBAC security.
 - 👯 **Leadership:** **Team Lead of the Coding Club** at UIET, Kurukshetra University.
 - 📫 **Contact:** manisharajeshdhankhar@gmail.com
 
