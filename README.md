@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://static.vecteezy.com/system/resources/previews/055/209/297/non_2x/3d-icon-stylish-smiling-woman-with-glasses-and-laptop-online-learning-avatar-cartoon-hipster-character-close-up-portrait-on-isolated-on-transparent-background-png.png" alt="Banner Image" width="30%" height="40%"/>
+  <img src="https://img.freepik.com/premium-photo/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_839035-980257.jpg?w=360" alt="Banner Image" width="30%" height="40%"/>
 </p>
 
 # <p align="center">Hi there, I'm Manisha Dhankhar! 👋</p>
