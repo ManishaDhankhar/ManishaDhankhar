@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://videocdn.cdnpk.net/videos/8d93bae2-87a8-5385-be22-053498837baa/square/thumbnails/large.jpg" alt="Banner Image" width="30%" height="40%"/>
+  <img src="https://png.pngtree.com/png-vector/20240506/ourmid/pngtree-cute-cartoon-girl-doing-office-work-on-transparent-background-png-image_12375933.png" alt="Banner Image" width="30%" height="40%"/>
 </p>
 
 # <p align="center">Hi there, I'm Manisha Dhankhar! 👋</p>
