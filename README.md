@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://static.vecteezy.com/system/resources/previews/055/209/297/non_2x/3d-icon-stylish-smiling-woman-with-glasses-and-laptop-online-learning-avatar-cartoon-hipster-character-close-up-portrait-on-isolated-on-transparent-background-png.png" alt="Banner Image" width="100%" />
+</p>
+
 # <p align="center">Hi there, I'm Manisha Dhankhar! 👋</p>
 
 <p align="center">
